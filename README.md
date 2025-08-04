@@ -1,5 +1,3 @@
-Here is the `README.md` file content you can copy and save as `README.md` in your project directory:
-
 ````markdown
 # 🔐 APOGE Birthdate Brute-force Tool
 
@@ -93,7 +91,3 @@ This script should **only** be used with proper authorization. Do **not** run th
 
 No license provided. Intended for personal academic use only. Do not redistribute or use for malicious purposes.
 
-```
-
-Let me know if you also want a `requirements.txt` file or GitHub repo structure.
-```
